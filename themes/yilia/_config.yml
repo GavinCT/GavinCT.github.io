@@ -6,18 +6,17 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/GavinCT"
+  weibo: "http://weibo.com/gavinct"
+  #rss: "#"
+  zhihu: "http://zhihu.com/people/GavinCT"
   #douban: "#"
-  #mail: "#"
+  mail: "mailto:chentong.think@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
   #linkedin: "#"
-
-rss: /atom.xml
+  #rss: /atom.xml
 
 # Content
 excerpt_link: more
@@ -40,15 +39,15 @@ tagcloud: true
 
 #是否开启友情链接
 #不开启——
-#friends: false
+friends: false
 #开启——
-friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+# friends:
+#   奥巴马的博客: http://localhost:4000/
+#   卡卡的美丽传说: http://localhost:4000/
+#   本泽马的博客: http://localhost:4000/
+#   吉格斯的博客: http://localhost:4000/
+#   习大大大不同: http://localhost:4000/
+#   托蒂的博客: http://localhost:4000/
 
 #是否开启“关于我”。
 #不开启——
